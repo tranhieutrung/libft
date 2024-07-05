@@ -61,7 +61,7 @@ static char	**word_split(char const *s, char c, char **array, size_t words)
 	{
 		while (*(s + j) && *(s + j) == c)
 			j++;
-		*(array + i) = ft_substr(s, j, word_len(&*(s + j), c));
+		*(array + i) = ft_substr(s, j, word_len((s + j), c));
 		if (!*(array + i))
 		{
 			free_array(i, array);
