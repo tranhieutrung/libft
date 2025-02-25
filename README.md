@@ -123,7 +123,7 @@ ft_lstmap: apply a function to each element of a list.
 ## Result
 Actual Status : finished.
 
-<img width="1914" src="https://github.com/tranhieutrung/images/blob/main/libft_result.png">
+<img width="1914" src="https://github.com/tranhieutrung/libft/blob/main/libft_result.png">
 
 ## Contribution
 If you'd like to contribute to the project, please create a pull request on GitHub. Please adhere to the contribution guidelines outlined in the CONTRIBUTING.md file.
